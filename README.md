@@ -13,7 +13,7 @@ There is such form in /report
 ![image](https://user-images.githubusercontent.com/73061822/102015940-6e87f480-3d6f-11eb-8afc-6b54cb7abba5.png)
 
 
-GnuPG is a opensource cryptographic algorithm. On Ubuntu we have 'gpg' utility for it.
+GnuPG is an opensource cryptographic algorithm. On Ubuntu we have 'gpg' utility for it.
 
 There is a public key for algorithm in /keys/public
 
