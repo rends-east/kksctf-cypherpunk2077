@@ -20,7 +20,9 @@ There is a public key for algorithm in /keys/public
 ![image](https://user-images.githubusercontent.com/73061822/102016171-a80d2f80-3d70-11eb-93bc-ad4293f0661c.png)
 
 I assumed, that there is a private key in /keys/private. It was correct.
+
 Ok, let's use it for our message.
+
 Importing public key (private key too):
 
 ![image](https://user-images.githubusercontent.com/73061822/102016394-c293d880-3d71-11eb-9894-978e89c9d466.png)
