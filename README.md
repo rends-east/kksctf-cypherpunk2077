@@ -66,6 +66,7 @@ kks{in_2077_what_makes_someon3_a_ctf_player7_getting_flag}
 .
 
 Heh, there is a joke from another participants of ctf
+
 On 1500 (and another) we can see message from Rubikoid (autor of a task)
 
 ![image](https://user-images.githubusercontent.com/73061822/102017286-15bc5a00-3d77-11eb-8979-eeb6494c529c.png)
