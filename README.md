@@ -37,7 +37,7 @@ Sending:
 
 Our link looks like 'tasks.kksctf.ru:30030/reports/x', where x is a number of our report. 
 
-Ok, let's go on the first post.
+Ok, let's go on the first post (tasks.kksctf.ru:30030/reports/1).
 
 There is encrypted message from organizers. Decrypting:
 
