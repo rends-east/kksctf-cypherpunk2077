@@ -40,11 +40,14 @@ There is encrypted message from organizers. Decrypting:
 
 It isn't a flag.
 
-After decrypting about a 50 posts we decide to make a script.
-Here it is. There are some problems with ' ' (space) at the begin of a message.
+After decrypting about a 50 posts we decided to make a script.
+Here it is. There were some problems with ' ' (space) at the begin of a message.
+(There are 1335 or 1336 messages from organizers)
 
 ![image](https://user-images.githubusercontent.com/73061822/102016998-2370e000-3d75-11eb-9b62-1df6d571b86c.png)
 
+Let's look answers.txt for our flag:
 
+![image](https://user-images.githubusercontent.com/73061822/102017171-5071c280-3d76-11eb-9576-17f3cccbec24.png)
 
-
+kks{in_2077_what_makes_someon3_a_ctf_player7_getting_flag}
