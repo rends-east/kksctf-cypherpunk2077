@@ -53,7 +53,7 @@ Here it is. There were some problems with ' ' (space) at the begin of a message.
 
 ![image](https://user-images.githubusercontent.com/73061822/102016998-2370e000-3d75-11eb-9b62-1df6d571b86c.png)
 
-Let's look answers.txt for our flag:
+Let's look answer.txt for our flag:
 
 ![image](https://user-images.githubusercontent.com/73061822/102017171-5071c280-3d76-11eb-9576-17f3cccbec24.png)
 
