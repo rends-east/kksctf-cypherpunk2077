@@ -52,12 +52,17 @@ Let's look answers.txt for our flag:
 
 kks{in_2077_what_makes_someon3_a_ctf_player7_getting_flag}
 
+.
+.
+.
+.
+.
 
 Heh, there is a joke from another participants of ctf
 On 1500 (and another) we can see message from Rubikoid (autor of a task)
 
 ![image](https://user-images.githubusercontent.com/73061822/102017286-15bc5a00-3d77-11eb-8979-eeb6494c529c.png)
 
-Decrypting. Oh!
+Decrypting... Oh!
 
 ![image](https://user-images.githubusercontent.com/73061822/102017276-02a98a00-3d77-11eb-8d8a-2ff5ad3b4eb6.png)
